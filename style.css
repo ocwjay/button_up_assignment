@@ -1,0 +1,39 @@
+#searchButton {
+    height: 2em;
+    width: 10em;
+    background-color: white;
+    border-radius: 40px;
+    border-color: cornflowerblue;
+    color: cornflowerblue;
+    font-weight: bold;
+    border-width: 3px;
+    margin: 10px;
+    font-size: 1em;
+}
+
+#plusButton {
+    font-weight: bold;
+    border-radius: 50%;
+    border-color: #00000000;
+    background-color: cornflowerblue;
+    color: white;
+    text-align: center;
+    height: 1.5em;
+    width: 1.5em;
+    font-size: 2em;
+    margin: 10px;
+}
+
+#createAccountButton {
+    margin: 10px;
+    border-width: 3px;
+    border-color: #000000ff;
+    color: white;
+    background-color: rgb(75, 75, 255);
+    height: 3em;
+    width: 15em;
+    font-size: 1em;
+    box-shadow: 4px 4px black;
+}
+
+
